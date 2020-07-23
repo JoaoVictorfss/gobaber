@@ -1,9 +1,13 @@
-# GoBarber
+<p align="center">
+<img src="https://github.com/JoaoVictorfss/gobaber/blob/master/gobarber-web/src/assets/logo-purple.svg" width=35%>
+</p>
+
+<h1 align="center"> GoBarber </h1>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=last-commit&message=july&color=information&style=plastic"/>
   <img src="http://img.shields.io/static/v1?label=license&message=MIT&color=green&style=plastic"/>
-  <img src="http://img.shields.io/static/v1?label=status&message=concluido&color=GREEN&style=plastic"/>
+  <img src="http://img.shields.io/static/v1?label=status&message=em-desenvolvimento&color=GREEN&style=plastic"/>
 </p>
 
 > Status do Projeto: Em desenvolvimento :warning:
