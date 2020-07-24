@@ -105,7 +105,7 @@ sua versão front-end é para prestadores de serviço enquanto que a versão mob
  ## No Back-end:
    > Entre na pasta gobarber-back-end
    
- #### Configurando as variavéis de ambiente
+ #### Configurando as variáveis de ambiente
 
  1. Insira as informações no arquvio '.env' conforme explicado a seguir
  
