@@ -166,7 +166,7 @@ sua versão front-end é para prestadores de serviço enquanto que a versão mob
   > yarn queue
 
   ## No Front-end:
-  > Acessar diretório 
+  > Acesse o diretório 
   > cd gobarber-web
 
   #### Pré-requisitos:
