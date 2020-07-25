@@ -54,12 +54,12 @@ sua versão front-end é para prestadores de serviço enquanto que a versão mob
 
 ## Pré-requisitos
 #### Ferramentas: 
-- Yarn
-- Docker
+- :warning: Yarn
+- :warning: Docker
 #### Serviços:     
-- Postgres
-- Redis
-- Mongodb
+- :warning: Postgres
+- :warning: Redis
+- :warning: Mongodb
 
 ## Tecnologias e dependências
   ### Front-end
