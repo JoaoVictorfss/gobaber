@@ -7,8 +7,8 @@
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=issues&message=0&color=yellow&style=plastic"/>
   <img src="http://img.shields.io/static/v1?label=last%20commit&message=july&color=information&style=plastic"/>
-  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
-  <img src="https://img.shields.io/static/v1?label=node&message=interpretador&color=green&style=for-the-badge&logo=Node.js"/>
+  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=plastic&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=node&message=interpretador&color=green&style=plastic&logo=Node.js"/>
   <img src="http://img.shields.io/static/v1?label=license&message=MIT&color=green&style=plastic"/>
   <img src="http://img.shields.io/static/v1?label=status&message=em%20desenvolvimento&color=GREEN&style=plastic"/>
 </p>
