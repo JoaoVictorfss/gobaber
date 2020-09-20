@@ -21,6 +21,8 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades-checkered_flag)
 
+:small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação-web-dash)
+
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
 :small_blue_diamond: [Tecnologias e dependências](#tecnologias-e-dependências)
@@ -51,6 +53,8 @@ sua versão front-end é para prestadores de serviço enquanto que a versão mob
 - [X] Possibilita todas as funcionalidades do mobile e front-end
 - [X] Envio de e-mail para o prestador de serviço assim que um agendamento é cancelado 
 
+## Layout da Aplicação Web :dash:
+![GoBarber](https://github.com/JoaoVictorfss/gobaber/blob/master/GoBarber.gif)
 
 ## Pré-requisitos
 #### Ferramentas: 
