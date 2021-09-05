@@ -140,7 +140,7 @@ sua versão front-end é para prestadores de serviço enquanto que a versão mob
          DB_NAME=
          
 
-  5. Devemos instânciar também o redis e o mongodb, e alterar os dados no arquivo .env
+  5. Devemos instanciar também o redis e o mongodb, e alterar os dados no arquivo .env
 
       ex: $ docker run --name gobarber-redis -p 6379:6379 -d -t redis:alpine
 
